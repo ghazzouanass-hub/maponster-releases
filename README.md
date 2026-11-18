@@ -1,2 +1,1 @@
-# maponster-releases
-Official Maponster Desktop Installer Binaries
+# Maponster Desktop Official Installer Binaries
